@@ -1,0 +1,3 @@
+rootProject.name = 'OtusHW'
+
+include 'HW01-gradle'
